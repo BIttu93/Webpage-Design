@@ -1,0 +1,125 @@
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/hk-grotesk.min.css");
+#pro{
+font-family: HK Grotesk;
+font-style: normal!important;
+font-weight: normal!important;
+font-size: 15px!important;
+padding-top: 20px!important;
+/* identical to box height, or 153% */
+color: #FFFFFF;
+line-height: 23px;
+}
+
+#solu
+{
+	padding-top: 20px!important;
+font-family: HK Grotesk;
+font-style: normal!important;
+font-weight: normal!important;
+font-size: 15px!important;
+
+/* identical to box height, or 153% */
+color: #FFFFFF;
+line-height: 23px;
+}
+
+#pri
+{
+	padding-top: 20px!important;
+font-family: HK Grotesk!important;
+font-style: normal!important;
+font-weight: normal!important;
+font-size: 15px!important;
+/* identical to box height, or 153% */
+color: #FFFFFF;
+line-height: 23px;
+}
+
+#reso
+{
+	padding-top: 20px!important;
+font-family: HK Grotesk!important;
+font-style: normal!important;
+font-weight: normal!important;
+font-size: 15px!important;
+/* identical to box height, or 153% */
+color: #FFFFFF;
+line-height: 23px;
+}
+#com
+{
+	padding-top: 20px!important;
+font-family: HK Grotesk!important;
+font-style: normal!important;
+font-weight: normal!important;
+font-size: 15px!important;
+
+color: #FFFFFF;
+line-height: 23px;
+}
+#log
+{
+
+height: 24px;
+}
+#flag
+{
+	padding-left: 200px;
+}
+#contain
+{
+	background-image: url("background.png");
+}
+#content
+{
+	position: absolute;
+
+left: 190px;
+top: 135px;
+
+font-family: HK Grotesk;
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 53px;
+/* or 132% */
+
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+}
+#contentsub
+{
+	position: absolute;
+
+left: 190px;
+top: 309px;
+
+font-family: HK Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+color: rgba(255, 255, 255, 0.7);
+}
+#logbut
+{
+
+width: 41px;
+height: 24px;
+left: 1058px;
+top: 25px;
+
+font-family: HK Grotesk;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+
+color: #FFFFFF;
+}
